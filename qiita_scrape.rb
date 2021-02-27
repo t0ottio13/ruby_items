@@ -21,3 +21,5 @@ end
 
 csv = CSV.open("title.csv", "w")
 csv << titles
+
+#https://qiita.com/momokahori/items/851e4c36c5b5c4c2ef98　を参照
